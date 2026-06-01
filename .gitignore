@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data and private lists
+call_logs.csv
+call_logs_export.csv
+*.xlsx
+*.xls
+*.csv
+!requirements.txt
+
+# PyInstaller output
+build/
+dist/
+*.spec.bak
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

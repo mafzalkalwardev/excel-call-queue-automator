@@ -1,0 +1,5 @@
+ttkbootstrap
+pyautogui
+pynput
+pandas
+openpyxl
