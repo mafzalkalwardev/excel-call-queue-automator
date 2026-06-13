@@ -1,4 +1,40 @@
-# Call Queue Automator
+<div align="center">
+
+# 🚀 Excel Call Queue Automator
+
+**Desktop Python call-queue tool that imports Excel phone lists, controls a dial pad by screen coordinates, supports hotkeys, resumes completed calls, and exports CSV call logs.**
+
+Documented · MIT licensed · Maintained
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+
+[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
+
+</div>
+
+---
+
+## 🖼 Screenshots
+
+![Excel Call Queue Automator screenshot](docs/screenshots/placeholder.svg)
+
+*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
+
+---
+
+## 🐍 Contribution graph
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/excel-call-queue-automator/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/excel-call-queue-automator/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/excel-call-queue-automator/output/snake.svg" />
+</picture>
+
+
+---
 
 > A desktop Python tool for loading phone numbers from Excel, driving a browser-based dial pad with saved screen coordinates, and tracking call progress in a local CSV log.
 
