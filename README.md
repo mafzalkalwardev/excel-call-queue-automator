@@ -52,6 +52,10 @@ This project does not depend on a specific calling provider. It works by using s
 :trophy: One-file Windows executable build path  
 :trophy: No web-loaded README assets, so GitHub renders cleanly
 
+## Screenshots
+
+![excel-call-queue-automator dashboard](docs/screenshots/app.png)
+
 ## Features
 
 - Load `.xlsx` or `.xls` phone lists with columns such as `Phone`, `Phone Number`, `Mobile`, or `Number`.
