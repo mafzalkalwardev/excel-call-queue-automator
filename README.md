@@ -1,48 +1,70 @@
 <div align="center">
 
-# 🚀 Excel Call Queue Automator
+# Excel Call Queue Automator
 
-**Desktop Python call-queue tool that imports Excel phone lists, controls a dial pad by screen coordinates, supports hotkeys, resumes completed calls, and exports CSV call logs.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=900&lines=Desktop+Call+Queue+from+Excel;Dial+Pad+Coordinate+Control;Hotkeys%2C+Resume%2C+CSV+Logs;Python+desktop+automation" alt="Typing SVG" />
 
-Documented · MIT licensed · Maintained
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=2563eb&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/excel-call-queue-automator?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/excel-call-queue-automator?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/excel-call-queue-automator?style=for-the-badge&color=64748b" alt="License" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,windows" alt="Skill icons" />
+</p>
+
+<p>
+  <strong>Desktop Python call queue tool that imports Excel phone lists, controls a dial pad by screen coordinates, supports hotkeys, resumes calls, and exports CSV logs.</strong>
+</p>
 
 </div>
 
 ---
 
-## 🐍 Contribution graph
+## Trophy Cards
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/excel-call-queue-automator/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/excel-call-queue-automator/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/excel-call-queue-automator/output/snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
 
 ---
 
-> A desktop Python tool for loading phone numbers from Excel, driving a browser-based dial pad with saved screen coordinates, and tracking call progress in a local CSV log.
+## Stats Cards
 
-Call Queue Automator is built for small internal workflows where a user already has a web calling page open and wants a repeatable queue runner. It reads an Excel phone list, normalizes valid 10-digit US numbers, skips completed numbers from previous sessions, clicks configured screen positions, and gives the operator simple hotkeys for moving through the list.
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-This project does not depend on a specific calling provider. It works by using screen coordinates, so it can be adapted to any browser page or desktop dialer that has a number input, a call button, and an end-call button.
+---
 
-## Project Trophies
+## Activity Graph
 
-:trophy: Excel import with flexible phone-column detection  
-:trophy: Coordinate picker for browser or desktop dial pads  
-:trophy: Resume support through local call logs  
-:trophy: Operator hotkeys for next call and stop  
-:trophy: CSV history export for follow-up reporting  
-:trophy: One-file Windows executable build path  
-:trophy: No web-loaded README assets, so GitHub renders cleanly
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
 
-## Screenshots
+---
 
-![Application screenshot](docs/screenshots/app.png)
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## SEO Keywords
+
+`Excel dialer` `call queue` `PyAutoGUI` `hotkeys`
+
+---
 
 ## Features
 
